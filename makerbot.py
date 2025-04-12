@@ -11,7 +11,7 @@ dp = Dispatcher(bot)
 # 📌 Tugmalar va ularning tegishli kanallari
 buttons = [
     {"text": "𝑲𝒂𝒏𝒂𝒍𝒍𝒂𝒓𝒊𝒎𝒊𝒛 ♻️", "url": "https://t.me/Kalbim_iffati_1"},
-    {"text": "𝑹𝒆𝒌𝒍𝒂𝒎𝒂 𝑻𝒂𝒓𝒊𝒇 💸𝑹𝒆𝒌𝒍𝒂𝒎𝒂 𝒐𝒕𝒛𝒊𝒇 💞", "url": "https://t.me/Reklama_tariflarimizz"},
+    {"text": "𝑹𝒆𝒌𝒍𝒂𝒎𝒂 𝑻𝒂𝒓𝒊𝒇 💸𝑹𝒆𝒌𝒍𝒂𝒎𝒂 𝒐𝒕𝒛𝒊v 💞", "url": "https://t.me/Reklama_tariflarimizz"},
     {"text": "🦋 𝑳𝒐𝒈𝒐 / 𝑯𝒆𝒍𝒑 𝒕𝒆𝒙𝒕 / 𝑺𝒕𝒐𝒓𝒊𝒆𝒔 🦋", "url": "https://t.me/Text_yasash_xizmati"},
     {"text": "♻️𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝒗𝒂 𝑩𝒐𝒐𝒔𝒕 𝒉𝒊𝒛𝒎𝒂𝒕𝒊 🔔", "url": "https://t.me/Xavfsiz_Premium"},
     {"text": "📞 𝑨𝒅𝒎𝒊𝒏 𝒃𝒊𝒍𝒂𝒏 𝒃𝒐𝒈‘𝒍𝒂𝒏𝒊𝒔𝒉", "url": "https://t.me/Kalbim_iffati_bot"},
