@@ -3,7 +3,7 @@ from aiogram.utils import executor
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types import ParseMode
 
-API_TOKEN = '7832810991:AAHQG45YF7uW5IlBtpydNLHmbZSuyzOEBcc'  # <-- Bu yerga o‘z bot tokeningizni yozing
+API_TOKEN = '7642625328:AAE4XPbr5afok8jkPTuU1afu6_Dn5daA0hg'  # <-- Bu yerga o‘z bot tokeningizni yozing
 
 bot = Bot(token=API_TOKEN, parse_mode=ParseMode.HTML)
 dp = Dispatcher(bot)
